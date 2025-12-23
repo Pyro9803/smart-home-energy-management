@@ -28,8 +28,8 @@
         <module>services/config-server</module>
 <!--        <module>services/api-gateway</module>-->
 
-<!--        &lt;!&ndash; Business Services &ndash;&gt;-->
-<!--        <module>services/user-service</module>-->
+        <!-- Business Services -->
+        <module>services/user-service</module>
 <!--        <module>services/device-service</module>-->
 <!--        <module>services/energy-monitoring-service</module>-->
 <!--        <module>services/analytics-service</module>-->
